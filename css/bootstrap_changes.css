@@ -1,0 +1,21 @@
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+    background: #f8f8f8;
+    
+}
+.nav-tabs.nav-justified>li>a{
+    color: #444;
+}
+.nav-tabs.nav-justified>.active>a, .nav-tabs.nav-justified>.active>a:focus, .nav-tabs.nav-justified>.active>a:hover{
+    border-bottom-color: #f8f8f8 !important;
+}
+.carousel-caption {
+    right: 0%;
+    left: 0%;
+    bottom: 0px;
+    padding: 0px;
+    height: 35%;
+    background: url(../img/bg/60_000000.png) 0px 0px repeat;
+}
+.carousel-control{
+    bottom: 35%;
+}
